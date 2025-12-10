@@ -1,1 +1,2 @@
-![diagram](diagrams/test.drawio.png)
+![Architecture Diagram](diagrams/architecture.png)
+
