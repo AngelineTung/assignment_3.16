@@ -1,2 +1,2 @@
-![Architecture Diagram](diagrams/architecture.png)
+![Architecture Diagram](diagrams/test.drawio.png)
 
